@@ -1,4 +1,5 @@
 # MS-DOS6.22
+![](https://charlie.su/recording-ac5e9af596a918.gif)
 Программа установки MS-DOS 6.22 ИЗ ПОД WINDOWS
 Подойдёт для следующих целий:
 .Перипрошивка bios
